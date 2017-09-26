@@ -3,9 +3,8 @@ Kubernetes is an open-source container orchestration framework which was built u
 
 In this blog post we'll install Kubernetes 1.6 on a bare-metal machine with Ubuntu 16.04 in about 10 minutes. At the end you'll be able to start learning how to interact with Kubernetes via its CLI kubectl.
 
-Kubernetes overview:
 
-Pre-reqs
+# Pre-reqs
 I suggest using Packet for running through the tutorial which will offer a bare-metal host - you can also run through this on a VM or your own PC if you're running Ubuntu 16.04 as your OS.
 
 Head over to Packet.net and create a new project. For this example we can take advantage of the Type 0 host which gives you 4x Atom cores and 8GB of RAM for $0.05/hour.
